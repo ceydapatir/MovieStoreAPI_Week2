@@ -1,0 +1,5 @@
+c:\Users\patir\Desktop\Projeler\Patika\MovieStore\MovieStoreApi.UnitTests\obj\Debug\net7.0\MovieStoreApi.UnitTests.csproj.AssemblyReference.cache
+c:\Users\patir\Desktop\Projeler\Patika\MovieStore\MovieStoreApi.UnitTests\obj\Debug\net7.0\MovieStoreApi.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\patir\Desktop\Projeler\Patika\MovieStore\MovieStoreApi.UnitTests\obj\Debug\net7.0\MovieStoreApi.UnitTests.AssemblyInfoInputs.cache
+c:\Users\patir\Desktop\Projeler\Patika\MovieStore\MovieStoreApi.UnitTests\obj\Debug\net7.0\MovieStoreApi.UnitTests.AssemblyInfo.cs
+c:\Users\patir\Desktop\Projeler\Patika\MovieStore\MovieStoreApi.UnitTests\obj\Debug\net7.0\MovieStoreApi.UnitTests.csproj.CoreCompileInputs.cache
